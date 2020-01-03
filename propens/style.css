@@ -72,7 +72,7 @@
   
   /* Showcase */
   #showcase {
-    background: url('/propens/FadeBG.png') no-repeat center center/cover;
+    background: url('FadeBG.png') no-repeat center center/cover;
     height: 600px;
   }
   
